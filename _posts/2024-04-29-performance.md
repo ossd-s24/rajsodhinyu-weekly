@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 14
+title: Week 14 Performancs 
 ---
 I have a video of me displaying/using my individual contribution (an integration between TouchDesigner, an audio-visual app and Pulsoid, a heartrate monitor platform) in the Tisch room. Credit to Renee Nicole Powell for dancing and being a creative partner. 
 <!--more-->
