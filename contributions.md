@@ -22,9 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|Feb 10 - April 20 | [link to my contribution](https://github.com/rajsodhinyu/deltaskins/blob/main/PinkWithJoystick/iphone_edgetoedge_portrait.pdf)    | [Delta for iPhone](https://github.com/rileytestut/Delta)|   Created and coded a DS skin for the DS emulator app that uses a joystick instead of D-Pad. Highly requested!  Used Illustrator, Photoshop, and `.json`.|
-
-|---|:---|:---|[Pic](/images/skin.png)|
+|Feb 10 - April 20 | [link to my contribution](https://github.com/rajsodhinyu/deltaskins/blob/main/PinkWithJoystick/iphone_edgetoedge_portrait.pdf)    | [Delta for iPhone](https://github.com/rileytestut/Delta)|   Created and coded a DS skin for the DS emulator app that uses a joystick instead of D-Pad. Highly requested! ![Pic](/images/skin.png) Used Illustrator, Photoshop, and `.json`.|
 
 |March 10|[link](https://github.com/rajsodhinyu/pulsoid)|Requested Discord Feature/Issue|Integrating a heartbeat app with popular audio-visual-design software TouchDesigner using HTTP. Used at NYU Tisch!|
 
